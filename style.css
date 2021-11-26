@@ -1,0 +1,37 @@
+*{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.nirob{
+    
+    margin: auto;
+   justify-content: space-between;
+}
+.nirob,.im img{
+    width: 400px;
+    height: auto ;
+}
+.icon,.pop{
+    display: inline-block;
+}
+.hasib,.nirob{
+    display:inline-block;
+  
+}
+.hasib{
+    margin-left: 30px;
+    margin-top: 40px;
+    justify-content: space-around;
+    
+}
+.fst{
+    text-align: center;
+    
+    text-transform: uppercase;
+}
+.hasib,h1 h2{
+    color: rgb(255, 81, 0);
+}
+.p{
+    
+    color: rgb(63, 48, 25);
+}
